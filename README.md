@@ -1,5 +1,5 @@
 
- 
+![wave](https://user-images.githubusercontent.com/77038659/130917013-c209e83c-4b93-4de6-9258-5f318f24ab60.png)
 # Hi there 👋 I'm Surya S
 #### Glad To See You Here! 🤩
 >Aspiring Full StackWeb Developer, a passionate coder, and write efficient code using MERN Stack. Ambitious to work and collaborate with other dedicated and enterprising developers. Eager to take up a responsible role within an exciting and inspiring organization, and deliver products that offer a great user experience.
@@ -41,3 +41,6 @@
 
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=surya-sd&theme=react-dark)](https://github.com/surya-sd/github-readme-activity-graph)
+
+
+![wave (1)](https://user-images.githubusercontent.com/77038659/130917575-667b8365-a8f0-4ab3-8aa4-1464abfcfcd2.png)
