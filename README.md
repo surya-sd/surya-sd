@@ -13,13 +13,6 @@
 
 ------------
 
-# Projects to look 👨‍💻
-
-|  Project Name 📝 | Tools 👨‍🔧   | My Role 👨‍💼️ |
-| -------------- | ------------ | ------------ |
-| indiegogo.com  |  JavaScript, React  |  I was responsible for campaign page and User authentication using firebase and data filtering.
-| rodan+fields.com |  Html, Css, JavaScript | I was responsible for User authentication and interface for login signup pages.
-| disney+ clone  |  JavaScript, React, CSS3 | I build this project after learning Redux and to learn some Css.
 
 # Languages and Tools 🛠️
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
