@@ -14,17 +14,19 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/surya-sd "Link
 ---
 
 ## 🛠️ Languages & Tools  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)  
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)  
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%231572B6.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![Material UI](https://img.shields.io/badge/material%20ui-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/material%20ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" />
+</p>
 
 ---
 
@@ -39,11 +41,10 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/surya-sd "Link
 ---
 
 ## 📊 GitHub Stats  
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=surya-sd&show_icons=true&theme=radical&count_private=true)  
-<br/>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surya-sd&layout=compact&theme=radical)](https://github.com/surya-sd/github-readme-stats)  
-
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=surya-sd&theme=react-dark)](https://github.com/surya-sd/github-readme-activity-graph)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surya-sd&show_icons=true&theme=radical&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-sd&layout=compact&theme=radical" height="180px"/>
+</p>
 
 ---
 
